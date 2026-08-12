@@ -1,0 +1,31 @@
+Date,Description,Amount,Category
+2024-01-01,Paycheck,3200,Income
+2024-01-03,Rent Payment,-1450,Housing
+2024-01-05,Grocery Store,-185.42,Food
+2024-01-07,Gas Station,-54.21,Transportation
+2024-01-10,Electric Bill,-122.84,Utilities
+2024-01-12,Internet Bill,-79.99,Utilities
+2024-01-15,Restaurant,-68.37,Dining
+2024-01-18,Amazon Purchase,-91.25,Shopping
+2024-01-20,Paycheck,3200,Income
+2024-01-22,Car Insurance,-168.44,Insurance
+2024-02-01,Paycheck,3200,Income
+2024-02-03,Rent Payment,-1450,Housing
+2024-02-04,Grocery Store,-202.16,Food
+2024-02-06,Gas Station,-49.88,Transportation
+2024-02-09,Phone Bill,-95.00,Utilities
+2024-02-11,Restaurant,-74.63,Dining
+2024-02-14,Streaming Services,-39.97,Entertainment
+2024-02-18,Target Purchase,-112.54,Shopping
+2024-02-20,Paycheck,3200,Income
+2024-02-25,Medical Copay,-40.00,Healthcare
+2024-03-01,Paycheck,3200,Income
+2024-03-03,Rent Payment,-1450,Housing
+2024-03-05,Grocery Store,-193.77,Food
+2024-03-08,Gas Station,-57.19,Transportation
+2024-03-10,Electric Bill,-118.92,Utilities
+2024-03-13,Restaurant,-83.11,Dining
+2024-03-17,Clothing Store,-156.22,Shopping
+2024-03-20,Paycheck,3200,Income
+2024-03-23,Car Maintenance,-289.50,Transportation
+2024-03-27,Gym Membership,-45.00,Health
